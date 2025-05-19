@@ -2,12 +2,12 @@
 title: "Was sind eigentlich LLMs – und warum reden gerade alle darüber?"
 author: "Simon Sterneder"
 date: 2025-05-19
-reading_time: "3 min"
+reading_time: "13 min"
 ---
 
 # Was sind eigentlich LLMs – und warum reden gerade alle darüber?
 
-**L**arge **L**anguage **M**odels wie ChatGPT sind in kürzester Zeit zu einem festen Bestandteil meines Arbeitsalltags geworden. Als Entwickler nutze ich sie inzwischen regelmäßig – beim Debugging, beim Refactoring, zum Schreiben von Dokumentation oder um neue Frameworks schneller zu verstehen. Was vor Kurzem noch wie ein spannendes Experiment wirkte, ist heute ein praktisches Werkzeug, das mir Zeit spart, Ideen liefert und manchmal sogar neue Denkansätze eröffnet.
+Large Language Models wie ChatGPT sind in kürzester Zeit zu einem festen Bestandteil meines Arbeitsalltags geworden. Als Entwickler nutze ich sie inzwischen regelmäßig – beim Debugging, beim Refactoring, zum Schreiben von Dokumentation oder um neue Frameworks schneller zu verstehen. Was vor Kurzem noch wie ein spannendes Experiment wirkte, ist heute ein praktisches Werkzeug, das mir Zeit spart, Ideen liefert und manchmal sogar neue Denkansätze eröffnet.
 
 Und ich bin damit nicht allein. In Büros, Schulen und Medien sind LLMs wie ChatGPT, Claude oder Gemini derzeit in aller Munde. Die einen feiern sie als Durchbruch in Sachen Produktivität und Kreativität, die anderen warnen vor Fehlinformationen, Urheberrechtsproblemen oder ethischen Grauzonen.
 
@@ -39,12 +39,9 @@ LLMs sind ein Teilbereich dieser großen KI-Welt – genauer gesagt gehören sie
 ### KI ist nicht gleich KI: Ein kurzer Überblick
 
 Neben Sprachmodellen wie ChatGPT gibt es viele weitere Arten von KI-Systemen. Einige Beispiele:
-
-**Computer Vision:** Hier geht’s um das Erkennen und Verstehen von Bildern oder Videos. Klassische Anwendungen sind Gesichtserkennung oder Objektdetektion in der Industrie.
-
-**Reinforcement Learning:** Diese Technik bringt Maschinen bei, durch Versuch und Irrtum besser zu werden – ähnlich wie ein Kind, das Fahrradfahren lernt. Sie steckt z. B. hinter den Erfolgen von KI-Systemen in Strategiespielen oder der Steuerung von Robotern.
-
-**Symbolische KI & regelbasierte Systeme:** Diese „klassischen“ KI-Ansätze basieren nicht auf Daten, sondern auf festgelegten Regeln. Sie waren lange Standard, bevor das maschinelle Lernen Fahrt aufgenommen hat.
+- **Computer Vision:** Hier geht’s um das Erkennen und Verstehen von Bildern oder Videos. Klassische Anwendungen sind Gesichtserkennung oder Objektdetektion in der Industrie.
+- **Reinforcement Learning:** Diese Technik bringt Maschinen bei, durch Versuch und Irrtum besser zu werden – ähnlich wie ein Kind, das Fahrradfahren lernt. Sie steckt z. B. hinter den Erfolgen von KI-Systemen in Strategiespielen oder der Steuerung von Robotern.
+- **Symbolische KI & regelbasierte Systeme:** Diese „klassischen“ KI-Ansätze basieren nicht auf Daten, sondern auf festgelegten Regeln. Sie waren lange Standard, bevor das maschinelle Lernen Fahrt aufgenommen hat.
 
 ### Wo LLMs ins Bild passen
 
@@ -150,7 +147,7 @@ Ein einfaches Beispiel zeigt, wie wichtig diese Kontextverarbeitung ist:
 1. Der Hund hat den Mann gebissen.
 2. Der Mann hat den Hund gebissen.
 ```
-um. Damit ein Modell solche Unterschiede erkennt, muss es verstehen, wer hier das Subjekt ist und wer das Objekt – also *wer wen beißt*. Genau dafür ist der Attention-Mechanismus entscheidend: Er hilft dem Modell, die grammatikalischen und semantischen Beziehungen im Satz zu erfassen.
+Damit ein Modell solche Unterschiede erkennt, muss es verstehen, wer hier das Subjekt ist und wer das Objekt – also *wer wen beißt*. Genau dafür ist der Attention-Mechanismus entscheidend: Er hilft dem Modell, die grammatikalischen und semantischen Beziehungen im Satz zu erfassen.
 
 ### Training vs. Inferenz: Lernen vs. Anwenden
 
@@ -289,13 +286,13 @@ Viele LLMs wurden mit öffentlichen Webinhalten trainiert – also u. a. Blogs
 - Was passiert, wenn vertrauliche Informationen ins Training geraten?
 - Wer haftet, wenn ein LLM Teile eines fremden Textes „nachplappert“?
 
-Diese Themen sind rechtlich noch in Bewegung – viele Fragen werden gerade erst vor Gericht oder im EU-Parlament geklärt.
+Diese Themen sind rechtlich noch in Bewegung und müssen noch geklärt werden.
 
 ## 8. Regulierung & Verantwortung
 Mit der zunehmenden Verbreitung von LLMs wächst auch der Druck, sie zu regulieren – sowohl rechtlich als auch ethisch. Regierungen, Tech-Unternehmen und Forschungseinrichtungen arbeiten aktuell an Rahmenbedingungen, um Chancen zu nutzen und Risiken zu begrenzen.
 
 ### Der EU AI Act – was kommt auf uns zu?
-Die EU hat mit dem AI Act (voraussichtlich ab 2025 gültig) das erste große Gesetzespaket auf den Weg gebracht, das KI-Systeme nach Risikostufen einteilt:
+Die EU hat mit dem AI Act das erste große Gesetzespaket auf den Weg gebracht, das KI-Systeme nach Risikostufen einteilt:
 - **Unakzeptables Risiko:** z.B. Social Scoring oder KI zur Manipulation von Menschen – verboten.
 - **Hohes Risiko:** z.B. KI in Bewerbungssystemen, im Gesundheitswesen oder bei Strafverfolgung – stark reguliert.
 - **Geringes/Mittleres Risiko:** z.B. Chatbots, Textgeneratoren – Kennzeichnungspflicht und Transparenzanforderungen.
