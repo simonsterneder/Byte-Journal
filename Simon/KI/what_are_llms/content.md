@@ -152,14 +152,10 @@ print(sortierte_liste)
 [1, 2, 3, 4, 5, 6, 7, 8]
 ```
 
-###✅ Vorteile von Merge Sort:
-Sehr effizient:  
-immer
-𝑂(𝑛 log 𝑛)
-
-Funktioniert auch gut bei großen Datenmengen
-
-Stabiler Sortieralgorithmus (Reihenfolge bleibt bei gleichen Werten erhalten)
+### ✅ Vorteile von Merge Sort:
+- Sehr effizient: immer 𝑂(𝑛 log 𝑛)
+- Funktioniert auch gut bei großen Datenmengen
+- Stabiler Sortieralgorithmus (Reihenfolge bleibt bei gleichen Werten erhalten)
 
 ## 3. Wie LLMs entstanden sind – ein Blick zurück
 
