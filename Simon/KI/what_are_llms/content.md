@@ -3,6 +3,7 @@ title: "Was sind LLMs? Sprachmodelle wie ChatGPT einfach erklärt"
 author: "Simon Sterneder"
 date: 2025-05-19
 reading_time: "13 min"
+excerpt: "Was genau sind Large Language Models wie ChatGPT – und wie funktionieren sie? In diesem Guide bekommst du einen verständlichen Überblick: von der Technik hinter den Modellen bis zu praktischen Use-Cases, Risiken und Zukunftsszenarien."
 ---
 
 
