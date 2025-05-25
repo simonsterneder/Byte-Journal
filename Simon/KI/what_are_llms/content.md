@@ -28,7 +28,7 @@ Egal ob du selbst entwickelst, dich für KI interessierst oder einfach verstehen
 [6. LLMs im echten Leben – was schon geht](#6-llms-im-echten-leben---was-schon-geht)  
 [7. Risiken & Grenzen](#7-risiken--grenzen)  
 [8. Regulierung & Verantwortung](#8-regulierung--verantwortung)  
-[9. Wohin geht die Reise? Drei Zukunftsszenarien](#9-wohin-geht-die-reise-drei-zukunftsszenarien)
+[9. Wohin geht die Reise? Drei Zukunftsszenarien](#9-wohin-geht-die-reise?-drei-zukunftsszenarien)
 1. [Einführung: Was ist Künstliche Intelligenz und was sind LLMs](#einfuhrung-was-ist-kunstliche-intelligenz-und-was-sind-llms)  
 2. [Was können LLMs Anwendungsbeispiele für ChatGPT und Co](#was-konnen-llms-anwendungsbeispiele-fur-chatgpt-und-co)  
 3. [Geschichte der LLMs Von GPT2 bis GPT4](#geschichte-der-llms-von-gpt2-bis-gpt4)  
@@ -37,7 +37,7 @@ Egal ob du selbst entwickelst, dich für KI interessierst oder einfach verstehen
 6. [LLMs im Alltag und Beruf Praktische Use Cases](#llms-im-alltag-und-beruf-praktische-use-cases)  
 7. [Grenzen von LLMs Halluzinationen Bias und Sicherheit](#grenzen-von-llms-halluzinationen-bias-und-sicherheit)  
 8. [KI Regulierung und Ethik Was beim Einsatz von LLMs wichtig ist](#ki-regulierung-und-ethik-was-beim-einsatz-von-llms-wichtig-ist)  
-9. [Wohin geht die Reise? Drei Zukunftsszenarien](#9-wohin-geht-die-reise-drei-zukunftsszenarien)
+9. [Wohin geht die Reise? Drei Zukunftsszenarien](#9-wohin-geht-die-reise)
 
 
 ## 1. Einführung: Was ist Künstliche Intelligenz und was sind LLMs
